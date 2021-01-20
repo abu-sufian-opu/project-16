@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	font-weight: 900;
+}
+
+.main-div{
+    width: 1024px;
+    margin: 30px auto;
+    text-align: center;
+}
+.menu-div{
+    background-color: #34495E;
+    padding: 50px 0px;
+
+}
+    
+.menu{
+    text-align: center;
+}
+.menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+.menu li a {
+    display: inline-block;
+	background-color: #E67E22;
+	color: #34495e;
+    padding: 10px 10px;
+	text-decoration: none;
+}
+.list1 {
+    max-width: 5px;
+    height: 20px;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    left: 32px;
+}
+
+.list1 span {
+    color: #E67E22;
+    position: relative;
+    top: 20px;
+    font-size: 25px;
+    right: 5px;
+}
+
+.content-div{
+    background-color: #9B59B6;
+    height: 250px;
+}
+.div1 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: #34495E;
+    border-radius: 50%;
+    border: 6px dotted #E67E22;
+    position: relative;
+    right: 20px;
+    top: 70px;
+}
+.div2 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: #34495E;
+    border-radius: 50%;
+    border: 6px dotted #E67E22;
+    position: relative;
+    right: -10px;
+    bottom: 5px;
+}
+.div3 {
+    width: 125px;
+    height: 125px;
+    display: inline-block;
+    background-color: #34495E;
+    border-radius: 50%;
+    border: 6px solid #E67E22;
+    position: relative;
+    top: 100px;
+}
+.div4 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: #34495E;
+    border-radius: 50%;
+    border: 6px dotted #E67E22;
+    position: relative;
+    left: -10px;
+    bottom: 5px;
+}
+.div5 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: #34495E;
+    border-radius: 50%;
+    border: 6px dotted #E67E22;
+    position: relative;
+    left: 20px;
+    top: 70px;
+}
+.footer-div {
+	background-color: #34495E;
+	color: white;
+    height: 70px;
+    line-height: 70px;
+}
+.footer-div p{
+	font-weight: 500;
+}
